@@ -77,19 +77,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="cpu.ico">
+    <Content Include="Icons\cpu.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="cpu_blue.ico">
+    <Content Include="Icons\cpu_blue.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="cpu_green.ico">
+    <Content Include="Icons\cpu_green.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="cpu_red.ico">
+    <Content Include="Icons\cpu_red.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="cpu_yellow.ico">
+    <Content Include="Icons\cpu_yellow.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

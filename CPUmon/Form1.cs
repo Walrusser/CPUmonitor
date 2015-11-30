@@ -30,11 +30,11 @@ namespace CPUmon
         {
             InitializeComponent();
             //Import all of the icons from ico files
-            greyCpuIcon = new Icon("cpu.ico", 16,16);
-            blueCpuIcon = new Icon("cpu_blue.ico", 16, 16);
-            greenCpuIcon = new Icon("cpu_green.ico", 16, 16);
-            yellowCpuIcon = new Icon("cpu_yellow.ico", 16, 16);
-            redCpuIcon = new Icon("cpu_red.ico", 16, 16);
+            greyCpuIcon = new Icon("Icons/cpu.ico", 16,16);
+            blueCpuIcon = new Icon("Icons/cpu_blue.ico", 16, 16);
+            greenCpuIcon = new Icon("Icons/cpu_green.ico", 16, 16);
+            yellowCpuIcon = new Icon("Icons/cpu_yellow.ico", 16, 16);
+            redCpuIcon = new Icon("Icons/cpu_red.ico", 16, 16);
 
             //Create the notifyicon and show it with the grey cpu icon
             cpuIcon = new NotifyIcon();
